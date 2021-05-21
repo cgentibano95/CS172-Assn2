@@ -2,7 +2,7 @@
 
 Runs just as requested for assignment.
 Things to note:
-- Implemented binary term weights
+- Implemented binary term weights instead of TF-IDF weights
 - Did not implement stemming at all for both corpus and query
 
 ```bash
